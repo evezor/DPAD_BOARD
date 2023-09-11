@@ -18,3 +18,4 @@ An Edge boad with two buttons, two potentiometers and 2 multiplexed led bar grap
 
 ![sch](https://github.com/evezor/v0_potentiometer_board/blob/main/cad_files/POTENTIOMETER.svg)
 
+Evezor® and all associated marks, logos, and designs are registered trademarks and protected by copyright. Unauthorized use or reproduction of these trademarks and copyrighted materials is strictly prohibited
