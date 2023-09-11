@@ -1,4 +1,4 @@
-update=5/9/2021 4:20:47 PM
+update=10/05/20 02:00:39
 version=1
 last_client=kicad
 [general]
@@ -15,7 +15,7 @@ LibDir=
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=./
+PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
@@ -25,30 +25,29 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=Evezor_blank.net
+LastNetListRead=POTENTIOMETER.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
 ProhibitOverlappingCourtyards=1
-MinTrackWidth=0.15
+MinTrackWidth=0.2
 MinViaDiameter=0.4
 MinViaDrill=0.3
 MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
 TrackWidth1=0.25
-TrackWidth2=0.15
-TrackWidth3=0.2
-TrackWidth4=0.3
-TrackWidth5=0.5
-TrackWidth6=0.7
-TrackWidth7=0.8
-TrackWidth8=0.9
-TrackWidth9=1.1
-TrackWidth10=1.3
-TrackWidth11=2
+TrackWidth2=0.2
+TrackWidth3=0.3
+TrackWidth4=0.5
+TrackWidth5=0.7
+TrackWidth6=0.8
+TrackWidth7=0.9
+TrackWidth8=1.1
+TrackWidth9=1.3
+TrackWidth10=2
 ViaDiameter1=0.8
 ViaDrill1=0.4
 ViaDiameter2=1
@@ -79,7 +78,7 @@ OthersTextUpright=1
 SolderMaskClearance=0.051
 SolderMaskMinWidth=0.25
 SolderPasteClearance=0
-SolderPasteRatio=-0
+SolderPasteRatio=0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
@@ -249,7 +248,7 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.15
+Clearance=0.2
 TrackWidth=0.25
 ViaDiameter=0.8
 ViaDrill=0.4
