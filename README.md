@@ -1,4 +1,4 @@
-# Evezor D-PAD Board
+# Evezor Potentiometer Board
 
 *please note this board is has been deprecated.
 
